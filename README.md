@@ -1,4 +1,4 @@
-# How I Understand It: Hands-On ML
+# How I Understand It: ML
 
 Starting end-June 2023, I have stopped working, owing to not-so-great health.
 
